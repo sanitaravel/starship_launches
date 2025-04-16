@@ -1,33 +1,33 @@
 {
-  "launch_1": {
+  "flight_1": {
     "type": "youtube",
     "url": "https://www.youtube.com/watch?v=-1wcilQ58hI"
   },
-  "launch_2": {
+  "flight_2": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1dRKZEWQvrXxB"
   },
-  "launch_3": {
+  "flight_3": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1LyxBnOvzvOxN"
   },
-  "launch_4": {
+  "flight_4": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1OwxWYzDXjWGQ"
   },
-  "launch_5": {
+  "flight_5": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1RDGlyognOgJL"
   },
-  "launch_6": {
+  "flight_6": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1RDGlydZAeOJL"
   },
-  "launch_7": {
+  "flight_7": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1OwGWNYrzZVKQ"
   },
-  "launch_8": {
+  "flight_8": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1lPKqMQbAWLKb"
   }
