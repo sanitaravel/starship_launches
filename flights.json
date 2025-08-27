@@ -34,5 +34,9 @@
   "flight_9": {
     "type": "twitter/x",
     "url": "https://x.com/i/broadcasts/1OwxWXMRAXmKQ"
+  },
+  "flight_10": {
+    "type": "twitter/x",
+    "url": "https://x.com/i/broadcasts/1lPKqvNwLREGb"
   }
 }
