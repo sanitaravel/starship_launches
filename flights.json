@@ -1,46 +1,61 @@
 {
-  "flight_1": {
-    "type": "youtube",
-    "url": "https://www.youtube.com/watch?v=-1wcilQ58hI"
+  "spacex": {
+    "falcon_9": {},
+    "falcon_heavy": {},
+    "starship": {
+      "flight_1": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=-1wcilQ58hI"
+      },
+      "flight_2": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1dRKZEWQvrXxB"
+      },
+      "flight_3": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1LyxBnOvzvOxN"
+      },
+      "flight_4": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1OwxWYzDXjWGQ"
+      },
+      "flight_5": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1RDGlyognOgJL"
+      },
+      "flight_6": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1RDGlydZAeOJL"
+      },
+      "flight_7": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1OwGWNYrzZVKQ"
+      },
+      "flight_8": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1lPKqMQbAWLKb"
+      },
+      "flight_9": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1OwxWXMRAXmKQ"
+      },
+      "flight_10": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1lPKqvNwLREGb"
+      },
+      "flight_11": {
+        "type": "twitter/x",
+        "url": "https://x.com/i/broadcasts/1mrGmBjyEZgJy"
+      }
+    }
   },
-  "flight_2": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1dRKZEWQvrXxB"
-  },
-  "flight_3": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1LyxBnOvzvOxN"
-  },
-  "flight_4": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1OwxWYzDXjWGQ"
-  },
-  "flight_5": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1RDGlyognOgJL"
-  },
-  "flight_6": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1RDGlydZAeOJL"
-  },
-  "flight_7": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1OwGWNYrzZVKQ"
-  },
-  "flight_8": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1lPKqMQbAWLKb"
-  },
-  "flight_9": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1OwxWXMRAXmKQ"
-  },
-  "flight_10": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1lPKqvNwLREGb"
-  },
-  "flight_11": {
-    "type": "twitter/x",
-    "url": "https://x.com/i/broadcasts/1mrGmBjyEZgJy"
+  "blue_origin": {
+    "new_shepard": {},
+    "new_glenn": {
+      "flight_1": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=KXysNxbGdCg"
+      }
+    }
   }
 }
